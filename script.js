@@ -52,7 +52,7 @@ class ProgressClock {
               case 11:  
                    return { name: "Desember", days: 31 };  
               default:  
-                   return { name: "January", days: 31 };  
+                   return { name: "Januari", days: 31 };  
          }  
     }  
     update() {  
